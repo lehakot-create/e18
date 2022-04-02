@@ -1,0 +1,54 @@
+.header {
+  background: black;
+  color: white;
+  height: 150px;
+}
+.inner-header {
+  padding: 0;
+  width: 100%;
+}
+.logo-container {
+  height: 100%;
+  width: auto;
+  padding: 10px;
+}
+table {
+  width: 100%;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+#myhobby {
+  padding-left: 50px;
+  width: 1000px;
+}
+
+#rt {
+  width: 100px;
+}
+
+#rt a:hover {
+  background-color: gray;
+  color: #101010;
+}
+
+#mainphoto {
+  width: 700px;
+  height: 700x;
+}
+
+.content {
+  margin: 50px;
+}
+
+.footer {
+  margin: 100px;
+}
+#contact p {
+  align-items: center;
+}
